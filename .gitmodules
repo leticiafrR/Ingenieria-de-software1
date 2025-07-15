@@ -1,6 +1,6 @@
 [submodule "tp-grupal"]
-    path = tp-grupal
-    url = https://github.com/leticiafrR/gestion-y-reserva-de-futbol5.git
+	path = tp-grupal
+	url = https://github.com/leticiafrR/gestion-y-reserva-de-futbol5.git
 [submodule "patrones"]
-    path = patrones
-    url = https://github.com/leticiafrR/patrones-montaldo.git
+	path = patrones
+	url = https://github.com/leticiafrR/patrones-montaldo.git
